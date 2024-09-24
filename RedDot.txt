@@ -1,2 +1,2 @@
 抄袭RedDot的软件列表：
-- InputTip <a href="https://baidu.com">抄袭过程链接</a>
+- InputTip <a href="https://baidu.com">抄袭过程链接</a> <a href="https://baidu.com">国内备用链接</a>
